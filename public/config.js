@@ -27,7 +27,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/PDEX_Global",
   "VITE_SEO_SITE_NAME": "People Dex",
   "VITE_SEO_SITE_DESCRIPTION": "A decentralized perpetual exchange, 100% owned by the people",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/test168-3858/",
+  "VITE_SEO_SITE_URL": "https://pdex.club",
   "VITE_SEO_SITE_LANGUAGE": "en-US",
   "VITE_SEO_SITE_LOCALE": "en_CN",
   "VITE_SEO_TWITTER_HANDLE": "@PDEX_Global",
